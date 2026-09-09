@@ -54,10 +54,10 @@ GitHub Desktop can perform the same stage, commit, and push workflow through its
 
 ## 7. Save and sync these instructions
 
-Keep this `README.md` at the repository top level. After editing it, run:
+Keep this `readme.md` at the repository top level. After editing it, run:
 
 ```bash
-git add README.md
+git add readme.md
 git commit -m "Document repository workflow"
 git push origin main
 ```
